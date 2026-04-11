@@ -1,6 +1,6 @@
 # Fleet Pulse — Dashboard (frontend)
 
-SPA **React 19 + Vite + Redux Toolkit** con mapa Leaflet, lista de flota, WebSocket y refetch periódico. Diseño visual propio.
+SPA **React 19 + Vite + Redux Toolkit** con mapa Leaflet, lista de flota, WebSocket y refetch periódico.
 
 ## Arquitectura 
 
